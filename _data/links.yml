@@ -1,5 +1,14 @@
 - url: /
   title: Home
 
-- url: /sbout
-  title: About
+- url: /standard-one
+  title: Standard One
+
+- url: /standard-four
+  title: Standard Four
+
+- url: /standard-five
+  title: Standard Five
+
+- url: /standard-six
+  title: Standard Six
